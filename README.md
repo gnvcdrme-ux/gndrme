@@ -29,7 +29,7 @@
 
   <!-- Hero -->
   <header class="text-center pt-32 pb-20" id="hero">
-    <img src="https://raw.githubusercontent.com/gnvcdrme-ux/geneva.adarme---Software-Engineer/main/548737751_1273186034097826_4316469753272241215_n.jpg" 
+    <img src="https://github.com/gnvcdrme-ux/gndrme/blob/main/okk.jpg" 
   alt="Geneva Adarme" 
   class="mx-auto w-36 h-36 rounded-full shadow-lg border-4 border-purple-60 object-cover" 
   data-aos="zoom-out"
